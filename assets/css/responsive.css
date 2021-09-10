@@ -1,0 +1,28 @@
+@media screen and (max-width:567px){
+    .container{
+        width: 90%;
+    }
+    .header__members{
+        bottom: -50px;
+    }
+    .header__member{
+        width: 100px;
+        margin: 0 8px;
+    }
+    .team{
+        justify-content: flex-start;
+    }
+}
+@media screen and (max-width:768px){
+    .header__members{
+        bottom: -50px;
+    }
+    .header__member{
+        width: 100px;
+        margin: 0 8px;
+    }
+    .team{
+        justify-content: flex-start;
+    }
+    
+}
